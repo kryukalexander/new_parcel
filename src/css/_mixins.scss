@@ -1,0 +1,9 @@
+@mixin coloredText() {
+    &--red {
+        color: red;
+    }
+
+    &--green {
+        color: green;
+    }
+}
